@@ -1,0 +1,74 @@
+/* navbar section */
+#navbar{
+    flex-direction: column;
+    width: 120%;
+}
+#navbar ul li a{
+    padding: 11px;
+    font-size: 0.5rem;
+}
+#home::before{
+    height: 500px;
+    width: 121%;
+}
+#services{
+    flex-direction: column;
+}
+#services .box{
+    margin: 13px -54px;
+}
+#services-1{
+    flex-direction: column;
+}
+#services-1 .box{
+    margin: 13px -54px;
+}
+
+#upcoming{
+    flex-direction: column;
+}
+#upcoming .box{
+    margin: 13px -54px;
+}
+
+#upcoming-1{
+    flex-direction: column;
+}
+#upcoming-1 .box{
+    margin: 13px -54px;
+}
+
+#upcoming-2{
+    flex-direction: column;
+}
+#upcoming-2 .box{
+    margin: 13px -54px;
+}
+#featured-container{
+    margin-left: 58px;
+    margin-top: 33px;
+}
+#upcoming-container{
+    margin-left: 54px;
+}
+/* utility-classes */
+.h-primary{
+    font-size: 17px;
+    margin-left: 75px;
+    padding: 5px;
+}
+.h-secondary{
+    font-size: 14px;
+    margin-left: 75px;
+    padding: 5px;
+}
+.btn{
+    font-size: 0.5rem;
+    margin: 2px 5px;
+    
+    
+    
+}
+.button{
+    margin-left: 93px;
+}
